@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>🚀 React Frontend</h1>
+      <h1>🚀Learning React Frontend In Chill Manner</h1>
       <h2>Backend says: {data}</h2>
     </div>
   );
